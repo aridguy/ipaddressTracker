@@ -1,0 +1,27 @@
+.headBg{
+    background-image: url(../Assets/pattern-bg.png);
+    height: 18em;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.searcher{
+    width: 86%;
+}
+.botin {
+    float: right;
+    position: relative;
+    bottom: 38px;
+    background: black;
+    border-color: black;
+}
+
+.resultRow {
+    background-color: rgb(245, 241, 241);
+    height: 12em;
+    border-radius: 1em;
+    box-shadow: 5px 7px 33px #0000004d;
+    position: relative;
+    bottom: 8em;
+}
